@@ -3,7 +3,7 @@ three.js
 
 #### JavaScript 3D library ####
 
-The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides &lt;canvas&gt;, &lt;svg&gt;, CSS3D and WebGL renderers.
+项目的目标是创建一个轻量级的3 d库非常低水平的复杂性——换句话说,假人。图书馆提供<canvas>,< svg >,CSS3D和WebGL渲染器
 
 [Examples](http://threejs.org/examples/) — [Documentation](http://threejs.org/docs/) — [Migrating](https://github.com/mrdoob/three.js/wiki/Migration) — [Help](http://stackoverflow.com/questions/tagged/three.js)
 
